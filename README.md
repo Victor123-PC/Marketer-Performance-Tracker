@@ -39,7 +39,7 @@ Using Excel pivot tables and charts, I built a dashboard to visualize performanc
 **Experience-Based Development**; Since beginners are performing nearly as well as experts, invest in structured career development programs to accelerate their growth.
 
 ##  Dashboard Preview
-![Dashboard Screenshot](Dashboard1.png)
+![](Dashboard1.png)
 
 
 
